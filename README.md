@@ -20,8 +20,8 @@ In this project we are going to be building a news feed reader. The goal is to h
 * [ ] Add your project manager as collaborator on Github.
 * [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
 * [x] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [x] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
 
@@ -32,7 +32,7 @@ In this project we are going to be building a news feed reader. The goal is to h
 ### Preprocessor Setup
 
   * Run `less-watch-compiler less css index.less` from the top level of the Newsfeed-Components folder. 
-  * Open index.html in your browser
+  * Open index.html in your browser 
 
 
 ### Part 1: The Menu
